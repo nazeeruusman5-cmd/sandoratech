@@ -180,7 +180,7 @@
    ============================================ */
 .mobile-menu-box {
   width: 70%;
-  max-width: 200px;
+  max-width: 140px;
   height: 100vh;
   height: 100dvh;
   display: none;
@@ -277,7 +277,7 @@
   transform: translate(-50%, -50%);  
   width: 90%;
   max-width: 600px;
-  max-height: 84vh;
+  max-height: 76vh;
   overflow-y: clip;
   z-index: 160;
   transition: var(--transition);  
@@ -947,7 +947,7 @@
 
 .stat-prgh {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 0.75rem;
+  font-size: 0.55rem;
   font-family: Georgia, 'Times New Roman', Times, serif;
   letter-spacing: 0.05em;
   text-transform: uppercase;
