@@ -277,7 +277,7 @@
   transform: translate(-50%, -50%);  
   width: 90%;
   max-width: 600px;
-  max-height: 84vh;
+  height: 84vh;
   overflow-y: clip;
   z-index: 160;
   transition: var(--transition);  
@@ -376,7 +376,7 @@
   max-width: 500px;
   display: flex;
   flex-direction: column;
-  gap: -1px;
+  gap: -6px;
   border-radius: var(--radius-lg);
   position: relative;
   overflow-y: clip;
